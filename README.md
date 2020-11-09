@@ -9,7 +9,7 @@ A bot used to check word counts in a document.
 - 
 
 ## Google Doc Support
-To use google docs go to https://developers.google.com/docs/api/quickstart/python
+To use google docs go to https://developers.google.com/docs/api/quickstart/nodejs
 
 And hit the blue "Enable Google Docs Api" button. Once you've gone through the steps download the "credentials.json" file and drag in folder.
 
