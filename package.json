@@ -1,0 +1,23 @@
+{
+  "name": "discord-essay-checker",
+  "version": "1.0.0",
+  "description": "Check essay with discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenpilot4/discord-essay-checker.git"
+  },
+  "author": "Greenpilot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenpilot4/discord-essay-checker/issues"
+  },
+  "homepage": "https://github.com/Greenpilot4/discord-essay-checker#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "googleapis": "^64.0.0"
+  }
+}
