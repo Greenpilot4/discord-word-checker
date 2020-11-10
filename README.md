@@ -6,7 +6,6 @@ A bot used to check word counts in a document.
 ## To do list
 - Make Wordcount function 
 - Make function to read google document
-- 
 
 ## Google Doc Support
 To use google docs go to https://developers.google.com/docs/api/quickstart/nodejs
