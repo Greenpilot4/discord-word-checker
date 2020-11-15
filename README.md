@@ -1,6 +1,6 @@
 # CURRENTLY A WORK IN PROGRESS
 
-# Discord Essay Checker
+# Discord Word Count
 A bot used to check word counts in a document.
 
 ## To do list
